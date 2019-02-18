@@ -6,5 +6,4 @@
  * Time: 5:28 PM
  */
 
-echo'test1234';
-echo't123123123';
+echo 'Hello World'
